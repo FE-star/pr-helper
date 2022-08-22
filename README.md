@@ -1,6 +1,6 @@
 # pr-helper
 
-This template should help get you started developing with Vue 3 in Vite.
+作业处理器，用于快速批改作业
 
 ## Recommended IDE Setup
 
